@@ -22,6 +22,6 @@
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
-| `drive_...` || | |
-| `drive_...` | | | |
-| `drive_...` | | | |
+| `drive_001.jpg` |Xe ở xa/bị che khuất nhẹ bởi cột đèn, dải phân cách|Gán nhãn|Thân xe và bánh xe hiển thị rõ trên 30%, không vượt quá ngưỡng che khuất cho phép|
+| `drive_002.jpg` |Mật độ đông, nhiều xe kích thước nhỏ ở xa|Gán nhãn|Kích thước hiển thị vẫn đạt trên tiêu chuẩn tối thiểu (10x10 pixels), giúp học nhận diện vật thể nhỏ|
+| `drive_003.jpg` |Phương tiện nằm sát mép biên khung hình phía góc phải|Gán nhãn|Box ôm trọn phần thể tích thực tế còn hiển thị trong khung hình, đảm bảo không bị cắt xén quá nửa|
